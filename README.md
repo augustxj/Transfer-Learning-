@@ -1,8 +1,10 @@
 # **Transfer Learning for Lymphocyte and Monocyte Classification**
 
-This project applies **Transfer Learning** to classify images of white blood cells (WBC) into two categories: **Lymphocytes** and **Monocytes**. It compares the performance of a baseline model trained from scratch with a Transfer Learning model based on the VGG16 architecture. The primary focus is on evaluating and improving classification accuracy, anyway I have found some trouble like class bias and I THINK overfitting.
-Feel free to Branch and improve it in any way your considerations will be very helpful for my learning process. 
-I have done some comments on what could be improved to achieve an optimal result but as I said, I'm a student so I'm not sure.
+This project applies Transfer Learning to classify images of white blood cells (WBC) into two categories: Lymphocytes and Monocytes. It compares the performance of a baseline model trained from scratch with a Transfer Learning model based on the VGG16 architecture. The primary focus is on evaluating and improving classification accuracy; however, I encountered some challenges, such as class bias and possible overfitting.
+
+Feel free to fork the repository and improve it in any way. Your input will be incredibly valuable for my learning process.
+
+I have added some comments on areas that could be improved to achieve optimal results, but as I mentioned, I'm a student, so I may not have gotten everything right.
 
 ---
 
